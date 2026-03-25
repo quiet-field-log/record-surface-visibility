@@ -5,7 +5,7 @@
 
 ## 📄 Paper
 
-- 📥 [Download PDF](https://raw.githubusercontent.com/quiet-field-log/record-surface-visibility/main/paper_RSV_manuscript.pdf)  
+- 📥 [Download PDF] https://raw.githubusercontent.com/quiet-field-log/record-surface-visibility/main/paper_RSV_manuscript.pdf
 - 🔗 DOI (latest version): https://doi.org/10.5281/zenodo.17230669  
 
 
