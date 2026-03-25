@@ -2,14 +2,12 @@
 
 **Epistemic Limits of Administrative Export Artefacts**
 
----
 
 ## 📄 Paper
 
 - 📥 [Download PDF](https://raw.githubusercontent.com/quiet-field-log/record-surface-visibility/main/paper_RSV_manuscript.pdf)  
 - 🔗 DOI (latest version): https://doi.org/10.5281/zenodo.17230669  
 
----
 
 ## 🧠 Abstract
 
@@ -19,7 +17,6 @@ This repository documents the conceptual framework of Record-Surface Visibility 
 
 The study analyses more than 250 pages of statutory disclosure materials and identifies recurring infrastructural rendering patterns at the export boundary of administrative systems.
 
----
 
 ## 🔑 Keywords
 
@@ -29,13 +26,11 @@ The study analyses more than 250 pages of statutory disclosure materials and ide
 - record integrity  
 - record-surface visibility  
 
----
 
 ## 📦 Repository contents
 
 - `paper_RSV_manuscript.pdf` — full preprint manuscript  
 
----
 
 ## 📌 Citation
 
@@ -43,7 +38,6 @@ Yang, Y.
 *Record-Surface Visibility and the Infrastructural Rendering of Exported Administrative Records*  
 Zenodo. https://doi.org/10.5281/zenodo.17230669
 
----
 
 ## 🌐 Notes
 
