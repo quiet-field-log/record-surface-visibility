@@ -6,7 +6,7 @@
 
 - 📥 [Download PDF](https://raw.githubusercontent.com/quiet-field-log/record-surface-visibility/main/paper_RSV_manuscript..pdf)
 - 🌐 SSRN (approved preprint, earlier version): https://ssrn.com/abstract=6407179  
-  This SSRN entry corresponds to a previously approved version of the paper. The most recent version is available via the PDF above and the DOI link.
+This SSRN entry corresponds to a previously approved version of the paper. The most recent version is available via the PDF above and the DOI link.
 - 🔗 DOI (latest version): https://doi.org/10.5281/zenodo.17230669
 
 ## 🧠 Abstract
