@@ -1,7 +1,6 @@
 # Record-Surface Visibility (RSV)
 
-Most administrative records look complete.  
-They aren’t.
+Why can’t administrative processes be reconstructed from disclosure documents?
 
 RSV explains why.
 
@@ -89,6 +88,7 @@ RSV identifies a recurring condition:
 The collapse of relational complexity into a stable document form  
 that prevents reconstruction of procedural context.
 
+- RSV suggests that document completeness does not imply interpretability.
 
 ## ⚠️ Why it matters
 
