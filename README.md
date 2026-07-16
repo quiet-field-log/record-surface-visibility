@@ -1,131 +1,122 @@
-# Record-Surface Visibility (RSV)
+Record-Surface Visibility (RSV)
 
-Why can’t administrative processes be reconstructed from disclosure documents?
+Published in Archival Science (2026)
 
-RSV explains why.
+Record-Surface Visibility (RSV) explains why administrative processes may remain difficult to interpret even after records have been formally disclosed.
 
+⸻
 
-## 📄 Paper
+📄 Published Article
 
-- 📥 Download PDF (latest version)  
-- 🔗 DOI (latest version): https://doi.org/10.5281/zenodo.18939678  
-- 🌐 SSRN (earlier version): https://ssrn.com/abstract=6407179  
+Version of Record (DOI)
+https://doi.org/10.1007/s10502-026-09555-8
 
+Free View-only Access (Springer Nature SharedIt)
+https://rdcu.be/ft3jR
 
-## 🧠 What is RSV?
+⸻
+
+📚 Repository Purpose
+
+This repository preserves supplementary materials, implementation notes, figures, and project history supporting the published article.
+
+For reading and citation, please use the Version of Record.
+
+⸻
+
+🧠 What is RSV?
 
 Administrative systems are inherently relational.
 
-They maintain:
-- routing histories  
-- parallel identifiers  
-- version chains  
-- assignment logs  
-- cross-channel interactions  
+They maintain
 
-However, external observers rarely access these systems directly.
+* routing histories
+* parallel identifiers
+* version chains
+* assignment logs
+* cross-channel interactions
 
-Instead, they encounter administrative processes through exported artefacts such as:
-- PDF disclosure bundles  
-- cumulative email chains  
-- static document packages  
+External observers, however, usually encounter these processes only through exported documentary forms such as
 
-These artefacts become the **de facto evidentiary surface** of administrative action.
+* PDF disclosure bundles
+* cumulative email chains
+* static document packages
 
+RSV examines what remains observable at this documentary surface.
 
-## 🔑 Core Idea
+⸻
 
-RSV does not ask:
+🔑 Core Idea
 
-> *Are relational structures preserved inside the system?*
+RSV does not ask
 
-Instead, RSV asks:
+Are relational structures preserved inside administrative systems?
 
-> *What can actually be known from the exported document?*
+Instead, RSV asks
 
+What remains observable once records are encountered as documentary outputs?
 
-## 🧠 Abstract (short version)
+⸻
 
-Administrative systems preserve complex relational structures internally.
+📊 The RSV Framework
 
-But when records are exported as documents, those structures become partially visible, compressed, or indeterminate.
+RSV evaluates five dimensions of documentary visibility
 
-RSV provides a framework for analysing how relational structures become:
-- observable  
-- inferable  
-- indeterminate  
+1. Identifier Continuity
+2. Metadata Exposure
+3. Pathway Representation
+4. Attachment Lineage Visibility
+5. Format Integration
 
-at the surface of exported artefacts.
+using the three visibility conditions
 
+* Observable
+* Inferable
+* Indeterminate
 
-## 📊 The RSV Framework
+⸻
 
-RSV describes visibility across five dimensions:
+🔍 Principal Finding
 
-1. **Identifier Continuity**  
-   Can the same record be recognised across multiple appearances?
+Administrative disclosure does not necessarily ensure interpretability.
 
-2. **Metadata Exposure**  
-   What procedural metadata is actually visible?
+RSV identifies a recurring condition termed
 
-3. **Pathway Representation**  
-   Can the process history be reconstructed?
+Representational Contraction
 
-4. **Attachment Lineage Visibility**  
-   Are document relationships traceable?
+where complex relational structures become compressed into stable documentary forms that reduce relational observability.
 
-5. **Format Integration**  
-   Can the corpus be navigated as a relational whole?
+⸻
 
+📦 Repository Contents
 
-## 🔍 Key Finding
+* supplementary materials
+* implementation notes
+* figures
+* version history
+* supporting documentation
 
-Even when disclosures are formally complete, they can remain structurally opaque.
+⸻
 
-RSV identifies a recurring condition:
+📌 Citation
 
-**Representational Contraction**  
-The collapse of relational complexity into a stable document form  
-that prevents reconstruction of procedural context.
+Please cite the published article:
 
-- RSV suggests that document completeness does not imply interpretability.
+Yang Youngsoon
 
-## ⚠️ Why it matters
+Record-Surface Visibility and Evidential Accessibility in Administrative Disclosure.
 
-This affects how we interpret:
+Archival Science.
 
-- public disclosure  
-- accountability processes  
-- administrative evidence  
+https://doi.org/10.1007/s10502-026-09555-8
 
-A record can be formally complete —  
-yet impossible to interpret.
+⸻
 
+🔑 Keywords
 
-## 📦 Repository Contents
-
-- `paper_RSV_manuscript.pdf` — full preprint (latest version)
-
-
-## 📌 Citation
-
-Yang, Y.  
-*Record-Surface Visibility and the Infrastructural Rendering of Exported Administrative Records*  
-Zenodo. https://doi.org/10.5281/zenodo.18939678  
-
-
-## 🌐 Notes
-
-- This repository hosts the latest version of the RSV framework paper  
-- The DOI resolves to the most recent version  
-- This is a preprint (under review)
-
-
-## 🔑 Keywords
-
-- administrative records  
-- archival studies  
-- digital diplomatics  
-- information visibility  
-- record-surface visibility (RSV)  
-- representational contraction  
+* record-surface visibility
+* archival science
+* administrative records
+* documentary representation
+* relational observability
+* representational contraction
