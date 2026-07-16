@@ -102,7 +102,7 @@ where complex relational structures become compressed into stable documentary fo
 
 Please cite the published article:
 
-Yang Youngsoon
+Youngsoon Yang
 
 Record-Surface Visibility and Evidential Accessibility in Administrative Disclosure.
 
