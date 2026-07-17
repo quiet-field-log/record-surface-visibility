@@ -1,6 +1,6 @@
 Record-Surface Visibility (RSV)
 
-Published in Archival Science (2026)
+Published in *Archival Science* (2026)
 
 Record-Surface Visibility (RSV) explains why administrative processes may remain difficult to interpret even after records have been formally disclosed.
 
